@@ -1,25 +1,25 @@
 {
-  "name": "frontend-boilerplate",
+  "name": "frontend-starter-project",
   "version": "1.0.0",
-  "description": "Simple front-end boilerplate using Gulp 4",
+  "description": "front-end starter project using Gulp 4",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thecodercoder/frontend-boilerplate.git"
+    "url": "git+ssh://git@github.com/thelittlestschnauzer/frontend-starter-project.git"
   },
   "keywords": [
     "gulp",
-    "boilerplate",
+    "frontend",
     "html",
     "css",
     "javascript"
   ],
-  "author": "@thecodercoder",
+  "author": "Dana ONeil",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thecodercoder/frontend-boilerplate/issues"
+    "url": "https://git@github.com:thelittlestschnauzer/frontend-starter-project.git"
   },
-  "homepage": "https://github.com/thecodercoder/frontend-boilerplate#readme",
+  "homepage": "https://git@github.com:thelittlestschnauzer/frontend-starter-project.git",
   "devDependencies": {
     "autoprefixer": "^9.7.0",
     "cssnano": "^4.1.10",
@@ -35,5 +35,8 @@
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
