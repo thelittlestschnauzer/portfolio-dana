@@ -10,7 +10,7 @@ const postcss = require('gulp-postcss');
 const autoprefixer = require('autoprefixer');
 const cssnano = require('cssnano');
 var replace = require('gulp-replace');
-
+// const helloWorld = require('helloWorld')
 
 // File paths
 const files = { 
@@ -40,6 +40,11 @@ function jsTask(){
         .pipe(dest('dist')
     );
 }
+
+// function helloWorld(cb){
+//   console.log('Hellooooo world!');
+//   cb();
+// }
 
 // Cachebust
 var cbString = new Date().getTime();
