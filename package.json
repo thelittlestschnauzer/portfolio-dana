@@ -1,11 +1,11 @@
 {
-  "name": "frontend-starter-project",
+  "name": "portfolio-dana",
   "version": "1.0.0",
-  "description": "front-end starter project using Gulp 4",
+  "description": "Portfolio Project",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/thelittlestschnauzer/frontend-starter-project.git"
+    "url": "git@github.com:thelittlestschnauzer/portfolio-dana.git"
   },
   "keywords": [
     "gulp",
@@ -17,9 +17,9 @@
   "author": "Dana ONeil",
   "license": "ISC",
   "bugs": {
-    "url": "https://git@github.com:thelittlestschnauzer/frontend-starter-project.git"
+    "url": ""
   },
-  "homepage": "https://git@github.com:thelittlestschnauzer/frontend-starter-project.git",
+  "homepage": "",
   "devDependencies": {
     "autoprefixer": "^9.7.0",
     "cssnano": "^4.1.10",
