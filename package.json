@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:thelittlestschnauzer/portfolio-dana.git"
+    "url": "git+ssh://git@github.com/thelittlestschnauzer/portfolio-dana.git"
   },
   "keywords": [
     "gulp",
@@ -16,10 +16,7 @@
   ],
   "author": "Dana ONeil",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": "",
+  "homepage": "https://github.com/thelittlestschnauzer/portfolio-dana#readme",
   "devDependencies": {
     "autoprefixer": "^9.7.0",
     "cssnano": "^4.1.10",
@@ -38,5 +35,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/thelittlestschnauzer/portfolio-dana/issues"
   }
 }
